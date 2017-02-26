@@ -1,0 +1,1 @@
+# nixos-image-build-example
